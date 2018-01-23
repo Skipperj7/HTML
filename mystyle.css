@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800,900');
+.style{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 72px;
+	color: white;
+
+}
+body{
+	background-color: black;
+}
+.link{
+	font-size: 68px;
+	background-image: linear-gradient(500deg, #F98724 0%, #FB5152 53%, #DB4070 100%);
+}
