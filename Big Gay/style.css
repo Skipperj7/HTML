@@ -1,0 +1,14 @@
+.toaster {
+	position: absolute;
+	right: 530px;
+}
+.toasterHeader {
+	position: absolute;
+	right: 650px;
+	top: 450px;
+	color: white;
+	font-size: 62px;
+}
+body {
+background: black;
+}
