@@ -9,6 +9,13 @@
 	color: white;
 	font-size: 62px;
 }
+.toasterParagraph{
+	position: absolute;
+	left: 300px;
+	top: 650px;
+	color: white;
+	font-size: 32px;
+}
 body {
 background: black;
 }
